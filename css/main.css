@@ -59,6 +59,10 @@ body main div {
 
 }
 
+main {
+    margin-bottom: 10em;
+
+}
 
 @media screen and (min-width:988px) {
 
